@@ -1,0 +1,147 @@
+[
+  {
+    "id": "1",
+    "picture": "https://i.ibb.co/8csZJC6/Rectangle-4284.png",
+    "details_img": "https://i.ibb.co/1njHMjf/bf69b0786c15caeae95edc74821add1d.jpg",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg": "#aec8ff",
+    "card_bg": "#0052FF26",
+    "text_button_bg": "#0052FF",
+    "description": "Health: Health is a holistic concept encompassing physical, mental, and emotional well-being. It is about more than just the absence of disease; it's the pursuit of a fulfilling and balanced life. Maintaining good health involves regular exercise, a nutritious diet, adequate sleep, and stress management. It also includes seeking medical care when needed and prioritizing preventive measures like vaccinations and screenings. Mental and emotional health are equally important, involving managing stress, maintaining positive relationships, and seeking support when facing challenges. Overall, health is the foundation of a happy and productive life.",
+    "price": "$199"
+  },
+  {
+    "id": "2",
+    "picture": "https://i.ibb.co/27zq5RD/Rectangle-4284-1.png",
+    "details_img": "https://i.ibb.co/Ws7hP8T/bb78eb35b1d83676bfeb091b0af13288.jpg",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg": "#ffc3c5",
+    "card_bg": "#FF444A26",
+    "text_button_bg": "#FF444A",
+    "description": " Education is the lifelong process of acquiring knowledge, skills, and values. It's a powerful tool that empowers individuals to broaden their horizons, make informed decisions, and contribute positively to society. Formal education takes place in schools and institutions, but learning is not limited to these settings. Informal learning through experiences, interactions, and self-study is equally valuable. Education nurtures creativity, critical thinking, and problem-solving abilities, enabling individuals to adapt to a rapidly changing world and participate in social, cultural, and economic activities.",
+    "price": "$49.99"
+  },
+  {
+    "id": "3",
+    "picture": "https://i.ibb.co/b2BFPjR/Rectangle-4284-2.png",
+    "details_img": "https://i.ibb.co/1q1S87X/fb4761ab794b7c6a3bbe47db5aada389.jpg",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg": "#d4ecc1",
+    "card_bg": "#79C23F26",
+    "text_button_bg": "#79C23F",
+    "description": "Clothing is an essential aspect of human culture and everyday life. It encompasses the garments and attire people wear to cover and protect their bodies, express their identity, and adapt to various environmental conditions. Beyond its utilitarian function, clothing is a means of self-expression, allowing individuals to convey their style, culture, and personality. Fashion trends and clothing choices often reflect societal values and norms, making clothing a dynamic and influential aspect of our lives. Additionally, clothing serves practical purposes, offering comfort, warmth, and protection against the elements.",
+    "price": "$79.99"
+  },
+  {
+    "id": "4",
+    "picture": "https://i.ibb.co/Zh06GSy/Rectangle-4284-3.png",
+    "details_img": "https://i.ibb.co/C1w6fBd/a5a6654d792205c42250767f04885dec.jpg",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg": "#fdd2c4",
+    "card_bg": "#F8714726",
+    "text_button_bg": "#F87147",
+    "description": "Food is not only a source of sustenance but also a fundamental component of human culture, tradition, and social interaction. It provides essential nutrients, energy, and pleasure, contributing to physical health and well-being. The choices we make regarding food impact our overall health, so a balanced diet with a variety of nutritious foods is crucial. Food also plays a significant role in cultural and social contexts, with meals often serving as opportunities for bonding and celebration. Access to safe and nutritious food is a fundamental human right, and addressing food security is essential for global well-being.",
+    "price": "$29.99"
+  },
+  {
+    "id": "5",
+    "picture": "https://i.ibb.co/Zh06GSy/Rectangle-4284-3.png",
+    "details_img": "https://i.ibb.co/C1w6fBd/a5a6654d792205c42250767f04885dec.jpg",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg": "#fdd2c4",
+    "card_bg": "#F8714726",
+    "text_button_bg": "#F87147",
+    "description": "Food is not only a source of sustenance but also a fundamental component of human culture, tradition, and social interaction. It provides essential nutrients, energy, and pleasure, contributing to physical health and well-being. The choices we make regarding food impact our overall health, so a balanced diet with a variety of nutritious foods is crucial. Food also plays a significant role in cultural and social contexts, with meals often serving as opportunities for bonding and celebration. Access to safe and nutritious food is a fundamental human right, and addressing food security is essential for global well-being.",
+    "price": "$29.99"
+  },
+  {
+    "id": "6",
+    "picture": "https://i.ibb.co/b2BFPjR/Rectangle-4284-2.png",
+    "details_img": "https://i.ibb.co/1q1S87X/fb4761ab794b7c6a3bbe47db5aada389.jpg",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg": "#d4ecc1",
+    "card_bg": "#79C23F26",
+    "text_button_bg": "#79C23F",
+    "description": "Clothing is an essential aspect of human culture and everyday life. It encompasses the garments and attire people wear to cover and protect their bodies, express their identity, and adapt to various environmental conditions. Beyond its utilitarian function, clothing is a means of self-expression, allowing individuals to convey their style, culture, and personality. Fashion trends and clothing choices often reflect societal values and norms, making clothing a dynamic and influential aspect of our lives. Additionally, clothing serves practical purposes, offering comfort, warmth, and protection against the elements.",
+    "price": "$79.99"
+  },
+  {
+    "id": "7",
+    "picture": "https://i.ibb.co/27zq5RD/Rectangle-4284-1.png",
+    "details_img": "https://i.ibb.co/Ws7hP8T/bb78eb35b1d83676bfeb091b0af13288.jpg",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg": "#ffc3c5",
+    "card_bg": "#FF444A26",
+    "text_button_bg": "#FF444A",
+    "description": "Education is the lifelong process of acquiring knowledge, skills, and values. It's a powerful tool that empowers individuals to broaden their horizons, make informed decisions, and contribute positively to society. Formal education takes place in schools and institutions, but learning is not limited to these settings. Informal learning through experiences, interactions, and self-study is equally valuable. Education nurtures creativity, critical thinking, and problem-solving abilities, enabling individuals to adapt to a rapidly changing world and participate in social, cultural, and economic activities.",
+    "price": "$49.99"
+  },
+  {
+    "id": "8",
+    "picture": "https://i.ibb.co/8csZJC6/Rectangle-4284.png",
+    "details_img": "https://i.ibb.co/1njHMjf/bf69b0786c15caeae95edc74821add1d.jpg",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg": "#aec8ff",
+    "card_bg": "#0052FF26",
+    "text_button_bg": "#0052FF",
+    "description": "Health: Health is a holistic concept encompassing physical, mental, and emotional well-being. It is about more than just the absence of disease; it's the pursuit of a fulfilling and balanced life. Maintaining good health involves regular exercise, a nutritious diet, adequate sleep, and stress management. It also includes seeking medical care when needed and prioritizing preventive measures like vaccinations and screenings. Mental and emotional health are equally important, involving managing stress, maintaining positive relationships, and seeking support when facing challenges. Overall, health is the foundation of a happy and productive life.",
+    "price": "$199.99"
+  },
+  {
+    "id": "9",
+    "picture": "https://i.ibb.co/8csZJC6/Rectangle-4284.png",
+    "details_img": "https://i.ibb.co/1njHMjf/bf69b0786c15caeae95edc74821add1d.jpg",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg": "#aec8ff",
+    "card_bg": "#0052FF26",
+    "text_button_bg": "#0052FF",
+    "description": "Health: Health is a holistic concept encompassing physical, mental, and emotional well-being. It is about more than just the absence of disease; it's the pursuit of a fulfilling and balanced life. Maintaining good health involves regular exercise, a nutritious diet, adequate sleep, and stress management. It also includes seeking medical care when needed and prioritizing preventive measures like vaccinations and screenings. Mental and emotional health are equally important, involving managing stress, maintaining positive relationships, and seeking support when facing challenges. Overall, health is the foundation of a happy and productive life.",
+    "price": "$199.99"
+  },
+  {
+    "id": "10",
+    "picture": "https://i.ibb.co/27zq5RD/Rectangle-4284-1.png",
+    "details_img": "https://i.ibb.co/Ws7hP8T/bb78eb35b1d83676bfeb091b0af13288.jpg",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg": "#ffc3c5",
+    "card_bg": "#FF444A26",
+    "text_button_bg": "#FF444A",
+    "description": "Education is the lifelong process of acquiring knowledge, skills, and values. It's a powerful tool that empowers individuals to broaden their horizons, make informed decisions, and contribute positively to society. Formal education takes place in schools and institutions, but learning is not limited to these settings. Informal learning through experiences, interactions, and self-study is equally valuable. Education nurtures creativity, critical thinking, and problem-solving abilities, enabling individuals to adapt to a rapidly changing world and participate in social, cultural, and economic activities.",
+    "price": "$49.99"
+  },
+  {
+    "id": "11",
+    "picture": "https://i.ibb.co/b2BFPjR/Rectangle-4284-2.png",
+    "details_img": "https://i.ibb.co/1q1S87X/fb4761ab794b7c6a3bbe47db5aada389.jpg",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg": "#d4ecc1",
+    "card_bg": "#79C23F26",
+    "text_button_bg": "#79C23F",
+    "description": "Clothing is an essential aspect of human culture and everyday life. It encompasses the garments and attire people wear to cover and protect their bodies, express their identity, and adapt to various environmental conditions. Beyond its utilitarian function, clothing is a means of self-expression, allowing individuals to convey their style, culture, and personality. Fashion trends and clothing choices often reflect societal values and norms, making clothing a dynamic and influential aspect of our lives. Additionally, clothing serves practical purposes, offering comfort, warmth, and protection against the elements.",
+    "price": "$79.99"
+  },
+  {
+    "id": "12",
+    "picture": "https://i.ibb.co/Zh06GSy/Rectangle-4284-3.png",
+    "details_img": "https://i.ibb.co/C1w6fBd/a5a6654d792205c42250767f04885dec.jpg",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg": "#fdd2c4",
+    "card_bg": "#F8714726",
+    "text_button_bg": "#F87147",
+    "description": "Food is not only a source of sustenance but also a fundamental component of human culture, tradition, and social interaction. It provides essential nutrients, energy, and pleasure, contributing to physical health and well-being. The choices we make regarding food impact our overall health, so a balanced diet with a variety of nutritious foods is crucial. Food also plays a significant role in cultural and social contexts, with meals often serving as opportunities for bonding and celebration. Access to safe and nutritious food is a fundamental human right, and addressing food security is essential for global well-being.",
+    "price": "$29.99"
+  }
+  
+]
